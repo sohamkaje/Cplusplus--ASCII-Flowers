@@ -3,7 +3,7 @@
     Prompt for the number of flower layers and display
 
     Course: CS 141, Fall 2023
-    System: Linux_x86_64 and G++
+    System: Linux_x86_64 and C++
     Author: George Maratos and David Hayes
  ---------------------------------------------**/
 
