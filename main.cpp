@@ -4,7 +4,7 @@
 
     Course: CS 141, Fall 2023
     System: Linux_x86_64 and C++
-    Author: Soham Kaje, Starter code provided by George Maratos and David Hayes
+    Author: Soham Kaje, Starter code provided by UIC Professors George Maratos and David Hayes
  ---------------------------------------------**/
 
 #include <iomanip>
